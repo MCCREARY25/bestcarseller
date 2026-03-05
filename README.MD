@@ -25,7 +25,8 @@ Order Tracking: Users can track their order status (Pending, Approved, Completed
 Admin Dashboard: Overview of total users, orders, revenue, and stock.
 Order Management: Approve or Reject pending customer orders.
 Stock Management: Cars are automatically deducted from stock upon order approval.
-Tech Stack
+
+### Tech Stack
 Frontend: HTML5, CSS3 (Custom CSS Variables), JavaScript (ES6+)
 Backend: PHP 8+ (Vanilla)
 Database: MySQL
@@ -39,7 +40,8 @@ Install XAMPP (or any local server stack).
 A web browser (Chrome, Firefox, etc.).
 
 # Setup Steps
-Clone or Download the RepositoryPlace the project folder inside your htdocs directory.
+Clone (git clone https://github.com/MCCREARY25/bestcarseller.git
+) or Download the RepositoryPlace the project folder inside your htdocs directory.
 C:\xampp\htdocs\bestcarseller
 
 Start XAMPPOpen the XAMPP Control Panel and start Apache and MySQL.
